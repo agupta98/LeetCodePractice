@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="744c3f00-5ca2-43a1-9a15-641192259651" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bj8W0uaqECh9WNFgp0297Ab4VD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager" selected="Application.ShortestPathV">
+    <configuration name="MergeStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodingPractice.MergeStrings" />
+      <module name="DesignPatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CodingPractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PQObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodingPractice.PQObject" />
+      <module name="DesignPatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CodingPractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodingPractice.Program" />
+      <module name="DesignPatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CodingPractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProgramAbstarct" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodingPractice.ProgramAbstarct" />
+      <module name="DesignPatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CodingPractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShortestPathV" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodingPractice.ShortestPathV" />
+      <module name="DesignPatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CodingPractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ShortestPathV" />
+        <item itemvalue="Application.MergeStrings" />
+        <item itemvalue="Application.ProgramAbstarct" />
+        <item itemvalue="Application.Program" />
+        <item itemvalue="Application.PQObject" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="744c3f00-5ca2-43a1-9a15-641192259651" name="Default Changelist" comment="" />
+      <created>1589134169623</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589134169623</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="533" y="141" key="#com.intellij.ide.util.MemberChooser" timestamp="1606672928387">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="533" y="141" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1606672928387" />
+    <state width="1398" height="196" key="GridCell.Tab.0.bottom" timestamp="1606835052568">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="196" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1606835052568" />
+    <state width="1398" height="196" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1602166193593" />
+    <state width="1398" height="303" key="GridCell.Tab.0.bottom/0.23.1440.798@0.23.1440.798" timestamp="1603981131590" />
+    <state width="1398" height="196" key="GridCell.Tab.0.bottom/0.23.1440.801@0.23.1440.801" timestamp="1605464185136" />
+    <state width="1398" height="196" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1603727944562" />
+    <state width="1398" height="196" key="GridCell.Tab.0.center" timestamp="1606835052567">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="196" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1606835052567" />
+    <state width="1398" height="196" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1602166193592" />
+    <state width="1398" height="303" key="GridCell.Tab.0.center/0.23.1440.798@0.23.1440.798" timestamp="1603981131589" />
+    <state width="1398" height="196" key="GridCell.Tab.0.center/0.23.1440.801@0.23.1440.801" timestamp="1605464185135" />
+    <state width="1398" height="196" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1603727944562" />
+    <state width="1398" height="196" key="GridCell.Tab.0.left" timestamp="1606835052566">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="196" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1606835052566" />
+    <state width="1398" height="196" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1602166193591" />
+    <state width="1398" height="303" key="GridCell.Tab.0.left/0.23.1440.798@0.23.1440.798" timestamp="1603981131588" />
+    <state width="1398" height="196" key="GridCell.Tab.0.left/0.23.1440.801@0.23.1440.801" timestamp="1605464185133" />
+    <state width="1398" height="196" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1603727944561" />
+    <state width="1398" height="196" key="GridCell.Tab.0.right" timestamp="1606835052567">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="196" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1606835052567" />
+    <state width="1398" height="196" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1602166193592" />
+    <state width="1398" height="303" key="GridCell.Tab.0.right/0.23.1440.798@0.23.1440.798" timestamp="1603981131589" />
+    <state width="1398" height="196" key="GridCell.Tab.0.right/0.23.1440.801@0.23.1440.801" timestamp="1605464185136" />
+    <state width="1398" height="196" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1603727944562" />
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1604182330016">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1604182330016" />
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.23.1440.798@0.23.1440.798" timestamp="1603981131592" />
+    <state width="1398" height="303" key="GridCell.Tab.1.center" timestamp="1604182330015">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1604182330015" />
+    <state width="1398" height="303" key="GridCell.Tab.1.center/0.23.1440.798@0.23.1440.798" timestamp="1603981131591" />
+    <state width="1398" height="303" key="GridCell.Tab.1.left" timestamp="1604182330015">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1604182330015" />
+    <state width="1398" height="303" key="GridCell.Tab.1.left/0.23.1440.798@0.23.1440.798" timestamp="1603981131590" />
+    <state width="1398" height="303" key="GridCell.Tab.1.right" timestamp="1604182330016">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1604182330016" />
+    <state width="1398" height="303" key="GridCell.Tab.1.right/0.23.1440.798@0.23.1440.798" timestamp="1603981131591" />
+    <state x="399" y="276" key="com.intellij.ide.util.TipDialog" timestamp="1603981563308">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state x="399" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1602288078779" />
+    <state x="399" y="273" key="com.intellij.ide.util.TipDialog/0.23.1440.797@0.23.1440.797" timestamp="1602289358713" />
+    <state x="399" y="274" key="com.intellij.ide.util.TipDialog/0.23.1440.801@0.23.1440.801" timestamp="1599301381913" />
+    <state x="399" y="276" key="com.intellij.ide.util.TipDialog/0.23.1440.808@0.23.1440.808" timestamp="1603981563308" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1606508700901">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1606508700901" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Momemto/RectangleMania.java</url>
+          <line>107</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/CodingPractice/MinimumPartionSum.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/CodingPractice/MatrixDP.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/CodingPractice/MinCutsInString.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/CodingPractice/EvenVowels.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
