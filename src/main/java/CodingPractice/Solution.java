@@ -5,6 +5,7 @@ import java.util.PriorityQueue;
 
 public class Solution {
     public static void main(String[] args) {
+        System.out.println("master");
         int[][] mat = {{1,4,3,1,3,2},{3,2,1,3,2,4},{2,3,3,2,3,1}};
         System.out.println(trapRainWater(mat));
     }
