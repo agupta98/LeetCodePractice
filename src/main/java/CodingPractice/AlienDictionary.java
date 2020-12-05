@@ -10,8 +10,8 @@ class AlienDictionary {
        words.add("def");
         System.out.println(words.remove("lkj"));
         System.out.println(words);
-        String[] words = {"wrt", "wrf", "er", "ett", "rftt"};
-        System.out.println(alienOrder(words));
+        String[] words1 = {"wrt", "wrf", "er", "ett", "rftt"};
+        System.out.println(alienOrder(words1));
     }
     public static String alienOrder(String[] words) {
         Map<Character, Set<Character>> graph = new HashMap<>();
