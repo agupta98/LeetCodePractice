@@ -4,6 +4,7 @@ public class ZigZagString {
 
     public static void main(String[] args) {
         System.out.println(convertZigZag("PAYPALISHIRING", 4));
+        System.out.println("test");
     }
 
     public static String convertZigZag(String str, int numRows) {
