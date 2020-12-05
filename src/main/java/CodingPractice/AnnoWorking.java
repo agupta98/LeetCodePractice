@@ -22,7 +22,7 @@ public class AnnoWorking {
     }
 
     public void show() {
-        System.out.println("1");
+        System.out.println("3");
     }
 
 }
